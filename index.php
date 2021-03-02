@@ -33,7 +33,7 @@
 <i> -Desmond Tutu </i> <br><br><br><br> 
 </b></font></b>
   <font face="Berlin Sans FB " ,="" color="#A52A2A" size="8"> 
-    </font></p><h1><font face="Berlin Sans FB " ,="" color="#A52A2A" size="8"> TOMORROW </font></h1> 
+    </font></p><h1><font face="Berlin Sans FB " ,="" color="#A52A2A" size="20"> TOMORROW </font></h1> 
   <embed src="video-1614348805.mp4">
     </center>
 
